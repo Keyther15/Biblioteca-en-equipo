@@ -5,7 +5,7 @@
 Keyther Davis Tavera Peralta 100765924 
 Cesar Alonso Sierra Cuevas 100708687 
 Randy José Sánchez Mota 100552665 
-Diana ventura 
+Diana Lia Víctor Ventura 100630377
 
 Un sistema de consola desarrollado en C# (.NET) para gestionar el inventario, registro de usuarios, préstamos y devoluciones de libros de una biblioteca universitaria.
 
